@@ -1,3 +1,6 @@
+// import functions from the filename
+mod strings;
+
 fn main() {
-    println!("Hello, world!");
+    strings::run();
 }
