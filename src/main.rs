@@ -1,6 +1,6 @@
 // import functions from the filename
-mod enums;
+mod cli;
 
 fn main() {
-    enums::run();
+    cli::run();
 }
