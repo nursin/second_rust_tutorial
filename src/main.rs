@@ -1,6 +1,6 @@
 // import functions from the filename
-mod pointer_ref;
+mod structs;
 
 fn main() {
-    pointer_ref::run();
+    structs::run();
 }
