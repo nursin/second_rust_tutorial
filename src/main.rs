@@ -1,6 +1,6 @@
 // import functions from the filename
-mod structs;
+mod enums;
 
 fn main() {
-    structs::run();
+    enums::run();
 }
