@@ -1,6 +1,6 @@
 // import functions from the filename
-mod strings;
+mod pointer_ref;
 
 fn main() {
-    strings::run();
+    pointer_ref::run();
 }
